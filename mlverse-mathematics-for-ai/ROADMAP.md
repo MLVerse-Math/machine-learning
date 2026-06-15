@@ -89,7 +89,6 @@ Understand how data, transformations, and neural networks are represented mathem
 - [ ] Eigenvalues_Eigenvectors
 - [ ] SVD
 - [ ] PCA
-- [ ] Matrix Calculus
 
 ### Applications
 
