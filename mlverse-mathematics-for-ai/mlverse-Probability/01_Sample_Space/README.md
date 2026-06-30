@@ -7,6 +7,7 @@ tags: []
 
 ## Overview
 
+![image](sample_space.png)
 **Sample Space** is the starting point of Probability Theory. Every probabilistic experiment begins with a set of all possible outcomes, known as the **sample space**. Understanding sample spaces allows us to model uncertainty mathematically and serves as the foundation for events, conditional probability, random variables, Bayesian inference, and machine learning.
 
 Whether we're tossing a coin, rolling a die, predicting tomorrow's weather, or training an AI model, defining the sample space is the first step toward making probabilistic decisions.
